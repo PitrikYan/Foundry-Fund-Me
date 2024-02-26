@@ -12,8 +12,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/ *
-cd *
+git clone https://github.com/PitrikYan/Foundry-Fund-Me
+cd Foundry-Fund-Me
 forge build
 ```
 
